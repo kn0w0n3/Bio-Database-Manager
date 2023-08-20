@@ -8,7 +8,7 @@ Windows Installer Download: https://github.com/kn0w0n3/Bio-Database-Manager/rele
 ## Requirements: 
 
 Installation of the Perl package: https://www.perl.org/get.html  
-Perl is rquired becuase the downloader script was written in Perl be the NCBI  
+Perl is rquired becuase the downloader script was written in Perl by the NCBI  
 
 ## Usage:
 
