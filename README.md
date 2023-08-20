@@ -16,3 +16,7 @@ To download preformatted NCBI databases
 2) Select a directory to store the database
 
 3)  Click start
+
+## Resources: 
+
+https://www.ncbi.nlm.nih.gov/books/NBK52637/  
