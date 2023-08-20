@@ -3,6 +3,10 @@ Tool to download preformatted NCBI databases
 
 ![bio_database_manager_gui_8-19-23](https://github.com/kn0w0n3/Bio-Database-Manager/assets/22214754/77b58dd3-8006-4564-bb65-aa5263c71ed3)  
 
+## Requirements: 
+
+Installation of the Perl package: https://www.perl.org/get.html  
+
 ## Usage:
 
 To download preformatted NCBI databases
